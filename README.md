@@ -103,10 +103,9 @@ void loop()
 **
 
 
-[]()
+![](./https://github.com/Kishore00007/EXPERIMENT-NO--03-INTERFACING-ANALOG-INPUT-SENSOR-POT-WITH-ARDUINO-/blob/main/s1.jpg)
 
-
-
+![](./
 
 
 
